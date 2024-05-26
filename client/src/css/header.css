@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+#navbar{
+    background-color: black;
+    height: 5dvh;
+    color: yellowgreen;
+    display: flex;
+    padding: 2vh;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    
+}
+
+#right-navbar{
+    display: flex;
+    margin-right: 0;
+    margin-left: auto;
+    justify-content: space-evenly;
+}
+
+#right-navbar p{
+    color: yellowgreen;
+    margin-left: 15px;
+}
+
+#right-navbar p:hover{
+    color: yellow;
+}
+
+
+
+Link{
+    text-decoration: none;
+}

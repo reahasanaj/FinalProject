@@ -1,0 +1,19 @@
+#mainLayout{
+    border :2px solid black;
+    width: 60vw;
+    border-radius: 20px;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#delete{
+    background-color: red;
+    color: white;
+    border: 0;
+    font-size:large;
+    padding: 5px;
+    border-radius: 5px;
+    text-align: center;
+    width: 15vw;
+}
